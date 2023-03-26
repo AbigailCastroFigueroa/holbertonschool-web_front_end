@@ -317,9 +317,10 @@ h6 {
 }
 
 .nav {
-    margin: 0 0;
-    padding: 0 0;
+    margin: 0;
+    padding: 0;
     text-align: center;
+    list-style: none;
 }
 
 .nav .nav-item {
@@ -331,13 +332,13 @@ h6 {
     margin: var(--nav-item-margin);
 }
 
-.nav-link {
+.nav .nav-link {
     display: block;
     padding: 0.5rem, 1rem;
 }
 
 .nav .nav-link:hover {
-    color: var(--nav-item-hover);
+    color: var(--nav-item-link-hover);
 }
 
 .footer {
