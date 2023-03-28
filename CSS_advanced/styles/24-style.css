@@ -404,14 +404,14 @@ ul.row {
     margin: 0;
 }
 
-.card-title>a {
+.card-title a {
     padding: 2rem;
-    background: var(--color-light-grey);
+    background-color: var(--color-light-grey);
     display: block;
 }
 
-.card-title>a:hover {
+.card-title a:hover {
     color: var(--color-white);
-    background: var(--color-primary);
+    background-color: var(--color-primary);
     text-decoration: none;
 }
