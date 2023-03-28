@@ -400,17 +400,17 @@ ul.row {
     fill: var(--text-color);
 }
 
-.card-sevices .card-title {
+.card-services .card-title {
     margin: 0;
 }
 
-.card-title a {
+.card-services a {
     padding: 2rem;
     background-color: var(--color-light-grey);
     display: block;
 }
 
-.card-title a:hover {
+.card-services a:hover {
     color: var(--color-white);
     background-color: var(--color-primary);
     text-decoration: none;
