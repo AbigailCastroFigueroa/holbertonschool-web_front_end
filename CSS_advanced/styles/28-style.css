@@ -243,6 +243,7 @@ html {
     --header-logo-link-display: inline-block;
     --header-logo-link-top: -1rem;
     --header-logo-link-left: 0;
+    --header-logo-link-position: absolute;
 }
 
 body {
